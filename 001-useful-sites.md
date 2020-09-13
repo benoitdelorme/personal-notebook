@@ -1,6 +1,6 @@
 # Useful sites
 
-A list of website free resources.
+A list of websites free resources.
 
 * /cloudflare.com - Free https and cdn.
 * /firebase.google.com - free hosting, hosted db, auth, cloud functions, analytics.
